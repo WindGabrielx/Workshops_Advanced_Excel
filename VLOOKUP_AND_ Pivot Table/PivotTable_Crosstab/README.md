@@ -1,4 +1,4 @@
-** Workshops_PivotTable **
+# Workshops_PivotTable
   Hi! These workshops will focus on using PivotTables to visualize example data effectively. The topics will include:
 
 - Creating PivotTables: Learn how to transform your data into a PivotTable and set it up to summarize and analyze information efficiently.
