@@ -19,5 +19,6 @@ Below are the topics covered:
   - Visualizing the cleansed data using PivotTables to draw meaningful insights. This workshop provides an experience in data cleansing and visualization techniques applicable to real-world scenarios.
 
 ![1732694754557](https://github.com/user-attachments/assets/05e03fa6-933e-43c7-bde1-da805a217a1b)
+
 ![1732694734509](https://github.com/user-attachments/assets/fabec8cb-85bc-48bb-a148-624bd41c0227)
     
